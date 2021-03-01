@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831565182221",
+    "project_id": "spyce-1d7f7",
+    "storage_bucket": "spyce-1d7f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831565182221:android:89858de3605801dc64ec44",
+        "android_client_info": {
+          "package_name": "com.example.spyce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831565182221-lnlton3foisp0b6c6hin1rmshuj56n4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa-yeiClwbo-8f4cxhu7on3Sib20N_wmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831565182221-lnlton3foisp0b6c6hin1rmshuj56n4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
